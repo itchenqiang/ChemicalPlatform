@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ChemicalPlatform</string>
+    <string name="main_tab_name_product">产品</string>
+    <string name="main_tab_name_my">我的</string>
+    <string name="main_tab_name_more">更多</string>
+</resources>
